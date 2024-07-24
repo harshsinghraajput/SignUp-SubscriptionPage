@@ -1,0 +1,28 @@
+[debug] [2024-07-24T03:19:10.717Z] ----------------------------------------------------------------------
+[debug] [2024-07-24T03:19:10.720Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\iamha\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-24T03:19:10.720Z] CLI Version:   13.14.0
+[debug] [2024-07-24T03:19:10.721Z] Platform:      win32
+[debug] [2024-07-24T03:19:10.721Z] Node Version:  v20.15.1
+[debug] [2024-07-24T03:19:10.721Z] Time:          Wed Jul 24 2024 08:49:10 GMT+0530 (India Standard Time)
+[debug] [2024-07-24T03:19:10.721Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-24T03:19:10.726Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-24T03:19:10.726Z] > authorizing via signed-in user (iamharshsinghrajput@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\iamha\OneDrive\Desktop\WEB DEVELOPMENT\30 days web dev challenge\api\Mail_chimp
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
