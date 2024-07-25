@@ -35,7 +35,7 @@ app.post("/" , function (req, res) {
      const url = "https://us13.api.mailchimp.com/3.0/lists/a303fe9a98"
      const options ={
         method: "POST",
-        auth: "harsh1:3ec1c4cc709a9f0ed203ddc28b286c1a-us13"
+        auth: "harsh1:e090a9c9656b105533e21b41d04d0912-us13"
      }
      const request = https.request(url , options , function (response) {
         if(response.statusCode === 200){
@@ -56,7 +56,7 @@ app.post("/failure", function (req,res) {
        res.redirect("/");
 })
 //Audience id a303fe9a98
-//api key 3ec1c4cc709a9f0ed203ddc28b286c1a-us13
+//api key e090a9c9656b105533e21b41d04d0912-us13
 
 app.listen(3000,function () {
 console.log("Server is running on port 3000!!");    
